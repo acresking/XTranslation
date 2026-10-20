@@ -28,7 +28,7 @@ msgid "API key"
 msgstr "מפתח API"
 
 msgid "APK tool"
-msgstr "APK tool"
+msgstr "כלי APK"
 
 msgid "About"
 msgstr "אודות"
@@ -37,7 +37,7 @@ msgid "Action"
 msgstr "פעולה"
 
 msgid "Actual Size"
-msgstr "Actual Size"
+msgstr "גודל מקורי"
 
 msgid "Add"
 msgstr "הוספה"
@@ -61,13 +61,13 @@ msgid "Aggressive scan"
 msgstr "סריקה אגרסיבית"
 
 msgid "Algorithm"
-msgstr "אַלגוֹרִיתְם"
+msgstr "אלגוריתם"
 
 msgid "All"
 msgstr "הכל"
 
 msgid "All file types"
-msgstr "All file types"
+msgstr "כל סוגי הקבצים"
 
 msgid "All files"
 msgstr "כל הקבצים"
@@ -76,13 +76,13 @@ msgid "All types"
 msgstr "כל הסוגים"
 
 msgid "Analyze"
-msgstr "אבחן"
+msgstr "ניתוח"
 
 msgid "Analyzed"
 msgstr "נותח"
 
 msgid "Anchor Volume Descriptor"
-msgstr "Anchor Volume Descriptor"
+msgstr "מתאר עוגן הכרך"
 
 msgid "Animate"
 msgstr "הנפשה"
@@ -94,7 +94,7 @@ msgid "Application"
 msgstr "יישום"
 
 msgid "Application Extension"
-msgstr "Application Extension"
+msgstr "הרחבת יישום"
 
 msgid "Architecture"
 msgstr "ארכיטקטורה"
@@ -103,28 +103,28 @@ msgid "Archive"
 msgstr "ארכיון"
 
 msgid "Archive Explorer"
-msgstr "Archive Explorer"
+msgstr "סייר ארכיונים"
 
 msgid "Archive record"
-msgstr "רשומה"
+msgstr "רשומת ארכיון"
 
 msgid "Archive scan"
-msgstr "Archive scan"
+msgstr "סריקת ארכיון"
 
 msgid "Archives"
-msgstr "Archives"
+msgstr "ארכיונים"
 
 msgid "Array"
-msgstr "מַעֲרָך"
+msgstr "מערך"
 
 msgid "Arrows"
 msgstr "חצים"
 
 msgid "Attach"
-msgstr "לְצַרֵף"
+msgstr "צירוף"
 
 msgid "Attributes"
-msgstr "Attributes"
+msgstr "מאפיינים"
 
 msgid "Audio"
 msgstr "אודיו"
@@ -133,16 +133,16 @@ msgid "Author"
 msgstr "מחבר"
 
 msgid "Auto"
-msgstr "Auto"
+msgstr "אוטומטי"
 
 msgid "Automatic"
-msgstr "אוֹטוֹמָטִי"
+msgstr "אוטומטי"
 
 msgid "Background"
 msgstr "רקע"
 
 msgid "Background color"
-msgstr "Background color"
+msgstr "צבע רקע"
 
 msgid "Base"
 msgstr "בסיס"
@@ -157,16 +157,16 @@ msgid "Binary"
 msgstr "בינארי"
 
 msgid "Bind"
-msgstr "לִקְשׁוֹר"
+msgstr "קישור"
 
 msgid "Binding"
-msgstr "כריכה"
+msgstr "קישור"
 
 msgid "Bitmap Data"
-msgstr "Bitmap Data"
+msgstr "נתוני מפת סיביות"
 
 msgid "Bits"
-msgstr "ביטים"
+msgstr "סיביות"
 
 msgid "Block size"
 msgstr "גודל בלוק"
@@ -187,19 +187,19 @@ msgid "Bound import"
 msgstr "יבוא כבול"
 
 msgid "Box"
-msgstr "Box"
+msgstr "תיבה"
 
 msgid "Boxes"
-msgstr "Boxes"
+msgstr "תיבות"
 
 msgid "Breakpoint"
-msgstr "נקודות עצירה"
+msgstr "נקודת עצירה"
 
 msgid "Breakpoints"
-msgstr "נקודות שבירה"
+msgstr "נקודות עצירה"
 
 msgid "Buffer size"
-msgstr "גודל באפר"
+msgstr "גודל מאגר"
 
 msgid "Bugreports"
 msgstr "דיווחי שגיאות"
@@ -214,7 +214,7 @@ msgid "Bytes"
 msgstr "בתים"
 
 msgid "Bytes available"
-msgstr "בייטים זמינים"
+msgstr "בתים זמינים"
 
 msgid "CPU"
 msgstr "מעבד"
@@ -223,7 +223,7 @@ msgid "Calculate"
 msgstr "חשב"
 
 msgid "Callbacks"
-msgstr "שיחות חזרה"
+msgstr "פונקציות חזרה"
 
 msgid "Callstack"
 msgstr "מחסנית קריאות"
@@ -232,28 +232,28 @@ msgid "Cancel"
 msgstr "בטל"
 
 msgid "Cannot build YARA rules"
-msgstr "Cannot build YARA rules"
+msgstr "לא ניתן לבנות כללי YARA"
 
 msgid "Cannot create"
-msgstr "Cannot create"
+msgstr "לא ניתן ליצור"
 
 msgid "Cannot create YARA compiler"
-msgstr "Cannot create YARA compiler"
+msgstr "לא ניתן ליצור מהדר YARA"
 
 msgid "Cannot create temporary unpack directory."
-msgstr "Cannot create temporary unpack directory."
+msgstr "לא ניתן ליצור תיקייה זמנית לחילוץ."
 
 msgid "Cannot decompress"
-msgstr "Cannot decompress"
+msgstr "לא ניתן לפרוס נתונים דחוסים"
 
 msgid "Cannot fetch release metadata for %1."
-msgstr "Cannot fetch release metadata for %1."
+msgstr "לא ניתן לאחזר את המטא־נתונים של הגרסה עבור %1."
 
 msgid "Cannot find"
 msgstr "לא נמצא"
 
 msgid "Cannot find ZIP asset %1 in release %2."
-msgstr "Cannot find ZIP asset %1 in release %2."
+msgstr "לא ניתן למצוא את קובץ ה־ZIP %1 בגרסה %2."
 
 msgid "Cannot find file"
 msgstr "קובץ לא נמצא"
@@ -280,7 +280,7 @@ msgid "Cannot load file"
 msgstr "לא ניתן לטעון קובץ"
 
 msgid "Cannot open archive"
-msgstr "Cannot open archive"
+msgstr "לא ניתן לפתוח את הארכיון"
 
 msgid "Cannot open dump file"
 msgstr "לא ניתן לפתוח קובץ Dump"
@@ -289,10 +289,10 @@ msgid "Cannot open file"
 msgstr "לא ניתן לפתוח את הקובץ"
 
 msgid "Cannot open rules file"
-msgstr "Cannot open rules file"
+msgstr "לא ניתן לפתוח את קובץ הכללים"
 
 msgid "Cannot open scan target"
-msgstr "Cannot open scan target"
+msgstr "לא ניתן לפתוח את יעד הסריקה"
 
 msgid "Cannot open session"
 msgstr "לא ניתן לפתוח את ההפעלה"
@@ -301,7 +301,7 @@ msgid "Cannot read file"
 msgstr "לא ניתן לקרוא קובץ"
 
 msgid "Cannot read local info.ini for %1, skipping."
-msgstr "Cannot read local info.ini for %1, skipping."
+msgstr "לא ניתן לקרוא את קובץ info.ini המקומי עבור %1, מדלג."
 
 msgid "Cannot read memory at address"
 msgstr "לא ניתן לקרוא זיכרון בכתובת"
@@ -316,34 +316,34 @@ msgid "Cannot set shortcut"
 msgstr "לא ניתן להגדיר קיצור דרך"
 
 msgid "Cannot unpack"
-msgstr "Cannot unpack"
+msgstr "לא ניתן לחלץ"
 
 msgid "Cannot unpack data"
-msgstr "Cannot unpack data"
+msgstr "לא ניתן לחלץ נתונים"
 
 msgid "Cannot write data to file"
 msgstr "לא ניתן לכתוב נתונים לקובץ"
 
 msgid "Catalog"
-msgstr "Catalog"
+msgstr "קטלוג"
 
 msgid "Certificate"
 msgstr "תעודה"
 
 msgid "Check"
-msgstr "חשבון"
+msgstr "בדיקה"
 
 msgid "Check for updates"
 msgstr "בדוק עדכונים"
 
 msgid "Chunk"
-msgstr "Chunk"
+msgstr "מקטע נתונים"
 
 msgid "Chunks"
-msgstr "Chunks"
+msgstr "מקטעי נתונים"
 
 msgid "Class info"
-msgstr "Class info"
+msgstr "מידע על מחלקה"
 
 msgid "Clear"
 msgstr "נקה"
@@ -355,7 +355,7 @@ msgid "Close"
 msgstr "סגור"
 
 msgid "Code Object"
-msgstr "Code Object"
+msgstr "אובייקט קוד"
 
 msgid "Code pages"
 msgstr "דפי קוד"
@@ -364,7 +364,7 @@ msgid "Code section"
 msgstr "אזור קוד"
 
 msgid "Collection"
-msgstr "Collection"
+msgstr "אוסף"
 
 msgid "Color"
 msgstr "צבע"
@@ -376,10 +376,10 @@ msgid "Commands"
 msgstr "פקודות"
 
 msgid "Comment"
-msgstr "תגובה"
+msgstr "הערה"
 
 msgid "Comment Extension"
-msgstr "Comment Extension"
+msgstr "הרחבת הערה"
 
 msgid "Compact"
 msgstr "דחוס"
@@ -388,16 +388,16 @@ msgid "Compiler"
 msgstr "מהדר"
 
 msgid "Compress"
-msgstr "Compress"
+msgstr "דחיסה"
 
 msgid "Compressed"
-msgstr "Compressed"
+msgstr "דחוס"
 
 msgid "Compressed Data"
-msgstr "Compressed Data"
+msgstr "נתונים דחוסים"
 
 msgid "Compressed size"
-msgstr "Compressed size"
+msgstr "גודל דחוס"
 
 msgid "Compressor"
 msgstr "דוחס"
@@ -409,7 +409,7 @@ msgid "Console"
 msgstr "מסוף"
 
 msgid "Constant pool"
-msgstr "Constant pool"
+msgstr "מאגר קבועים"
 
 msgid "Controls"
 msgstr "פקדים"
@@ -424,7 +424,7 @@ msgid "Copy"
 msgstr "העתק"
 
 msgid "Copy as"
-msgstr "העתק בשם"
+msgstr "העתקה בתור"
 
 msgid "Corrupted data"
 msgstr "נתונים פגומים"
@@ -451,7 +451,7 @@ msgid "Custom database"
 msgstr "מסד נתונים מותאם"
 
 msgid "DOS extender"
-msgstr "DOS extender"
+msgstr "מרחיב DOS"
 
 msgid "Data"
 msgstr "נתונים"
@@ -472,10 +472,10 @@ msgid "Date"
 msgstr "תאריך"
 
 msgid "Debug"
-msgstr "לנפות"
+msgstr "ניפוי שגיאות"
 
 msgid "Debug data"
-msgstr "נתוני מנפה שגיאות"
+msgstr "נתוני ניפוי שגיאות"
 
 msgid "Debug registers"
 msgstr "אוגרי ניפוי שגיאות"
@@ -490,22 +490,22 @@ msgid "Deep scan"
 msgstr "סריקה מתקדמת"
 
 msgid "Default"
-msgstr "בְּרִירַת מֶחדָל"
+msgstr "ברירת מחדל"
 
 msgid "Delay import"
-msgstr "עיכוב ביבוא"
+msgstr "ייבוא מושהה"
 
 msgid "Demangle"
-msgstr "להסיר"
+msgstr "פענוח שמות סמלים"
 
 msgid "Dependencies"
-msgstr "תלות"
+msgstr "תלויות"
 
 msgid "Description"
 msgstr "תיאור"
 
 msgid "Detach"
-msgstr "לנתק"
+msgstr "ניתוק"
 
 msgid "Detect"
 msgstr "זהה"
@@ -520,7 +520,7 @@ msgid "Dialog"
 msgstr "תיבת דו-שיח"
 
 msgid "Directory"
-msgstr "מַדרִיך"
+msgstr "תיקייה"
 
 msgid "Directory scan"
 msgstr "סריקת תיקייה"
@@ -538,37 +538,37 @@ msgid "Donate"
 msgstr "תרום"
 
 msgid "Downloaded file is empty"
-msgstr "Downloaded file is empty"
+msgstr "הקובץ שהורד ריק"
 
 msgid "Downloaded file is not a valid ZIP archive"
-msgstr "Downloaded file is not a valid ZIP archive"
+msgstr "הקובץ שהורד אינו ארכיון ZIP תקין"
 
 msgid "Driver"
-msgstr "נהג"
+msgstr "מנהל התקן"
 
 msgid "Dump"
-msgstr "יצא כקובץ הרצה"
+msgstr "הטלת נתונים"
 
 msgid "Dump all"
-msgstr "יצא הכל"
+msgstr "הטלת כל הנתונים"
 
 msgid "Dump to file"
-msgstr "יצא כקובץ הרצה לקובץ"
+msgstr "הטלת נתונים לקובץ"
 
 msgid "Edit"
 msgstr "עריכה"
 
 msgid "Edit Flags"
-msgstr "Edit Flags"
+msgstr "עריכת דגלים"
 
 msgid "Edit Size"
-msgstr "Edit Size"
+msgstr "עריכת גודל"
 
 msgid "Edit String"
-msgstr "Edit String"
+msgstr "עריכת מחרוזת"
 
 msgid "Edit Value"
-msgstr "Edit Value"
+msgstr "עריכת ערך"
 
 msgid "Editor"
 msgstr "עורך"
@@ -580,28 +580,28 @@ msgid "Encode"
 msgstr "קידוד"
 
 msgid "Encrypted"
-msgstr "Encrypted"
+msgstr "מוצפן"
 
 msgid "End"
 msgstr "סוף"
 
 msgid "Endianness"
-msgstr "סוג סיומת"
+msgstr "סדר בתים"
 
 msgid "Entries"
-msgstr "Entries"
+msgstr "רשומות"
 
 msgid "Entropy"
 msgstr "אנטרופיה"
 
 msgid "Entropy view not implemented yet"
-msgstr "Entropy view not implemented yet"
+msgstr "תצוגת האנטרופיה טרם מומשה"
 
 msgid "Entry point"
-msgstr "כתובת תחילת הריצה"
+msgstr "נקודת כניסה"
 
 msgid "Entry point section"
-msgstr "אזור כתובת תחילת הריצה"
+msgstr "מקטע נקודת הכניסה"
 
 msgid "Error"
 msgstr "שגיאה"
@@ -616,7 +616,7 @@ msgid "Export"
 msgstr "יצא"
 
 msgid "Export File Name"
-msgstr "ייצא שם קובץ"
+msgstr "שם קובץ הייצוא"
 
 msgid "Export type"
 msgstr "סוג ייצוא"
@@ -625,7 +625,7 @@ msgid "Extender"
 msgstr "מרחיב"
 
 msgid "Extension"
-msgstr "Extension"
+msgstr "סיומת"
 
 msgid "External references"
 msgstr "הפניות חיצוניות"
@@ -637,7 +637,7 @@ msgid "Extra database"
 msgstr "מסד נתונים נוסף"
 
 msgid "Extra database updated successfully"
-msgstr "Extra database updated successfully"
+msgstr "מסד הנתונים הנוסף עודכן בהצלחה"
 
 msgid "Extract"
 msgstr "חילוץ"
@@ -652,37 +652,37 @@ msgid "Extractor"
 msgstr "מחלץ"
 
 msgid "Failed to create temporary directory"
-msgstr "Failed to create temporary directory"
+msgstr "יצירת התיקייה הזמנית נכשלה"
 
 msgid "Failed to extract %1."
-msgstr "Failed to extract %1."
+msgstr "החילוץ של %1 נכשל."
 
 msgid "Failed to extract archive: no files extracted"
-msgstr "Failed to extract archive: no files extracted"
+msgstr "חילוץ הארכיון נכשל: לא חולצו קבצים"
 
 msgid "Failed to get remote database info"
-msgstr "Failed to get remote database info"
+msgstr "אחזור המידע על מסד הנתונים המרוחק נכשל"
 
 msgid "Failed to initialize ZIP unpacking"
-msgstr "Failed to initialize ZIP unpacking"
+msgstr "אתחול חילוץ ה־ZIP נכשל"
 
 msgid "Failed to open downloaded zip file"
-msgstr "Failed to open downloaded zip file"
+msgstr "פתיחת קובץ ה־ZIP שהורד נכשלה"
 
 msgid "Failed to save image to %1"
-msgstr "Failed to save image to %1"
+msgstr "שמירת התמונה אל %1 נכשלה"
 
 msgid "Features"
-msgstr "Features"
+msgstr "יכולות"
 
 msgid "Fields"
-msgstr "Fields"
+msgstr "שדות"
 
 msgid "File"
 msgstr "קובץ"
 
 msgid "File buffer size"
-msgstr "File buffer size"
+msgstr "גודל מאגר הקובץ"
 
 msgid "File info"
 msgstr "מידע על קובץ"
@@ -691,7 +691,7 @@ msgid "File name"
 msgstr "שם קובץ"
 
 msgid "File name cannot be empty"
-msgstr "File name cannot be empty"
+msgstr "שם הקובץ אינו יכול להיות ריק"
 
 msgid "File offset"
 msgstr "היסט קובץ"
@@ -721,10 +721,10 @@ msgid "First"
 msgstr "ראשון"
 
 msgid "Fit to Window"
-msgstr "Fit to Window"
+msgstr "התאמה לחלון"
 
 msgid "Fix offsets"
-msgstr "תיקון קיזוזים"
+msgstr "תיקון היסטים"
 
 msgid "Fix types"
 msgstr "תקן סוגים"
@@ -778,7 +778,7 @@ msgid "GB"
 msgstr "GB"
 
 msgid "Game engine"
-msgstr "Game engine"
+msgstr "מנוע משחק"
 
 msgid "General registers"
 msgstr "אוגרים כלליים"
@@ -796,7 +796,7 @@ msgid "GiB"
 msgstr "GiB"
 
 msgid "Global Color Table"
-msgstr "Global Color Table"
+msgstr "טבלת צבעים כללית"
 
 msgid "Go to"
 msgstr "מעבר אל"
@@ -811,7 +811,7 @@ msgid "Gradient"
 msgstr "מדרג"
 
 msgid "Graphic Control Extension"
-msgstr "Graphic Control Extension"
+msgstr "הרחבת בקרה גרפית"
 
 msgid "Grid"
 msgstr "רשת"
@@ -820,16 +820,16 @@ msgid "Group"
 msgstr "קבוצה"
 
 msgid "Handles"
-msgstr "ידיות"
+msgstr "מזהי משאבים (Handles)"
 
 msgid "Hardware"
 msgstr "חומרה"
 
 msgid "Hash"
-msgstr "פונקציית גיבוב"
+msgstr "גיבוב"
 
 msgid "Hash view not implemented yet"
-msgstr "Hash view not implemented yet"
+msgstr "תצוגת הגיבוב טרם מומשה"
 
 msgid "Header"
 msgstr "כותרת"
@@ -853,7 +853,7 @@ msgid "Hex"
 msgstr "הקס"
 
 msgid "Hex view not implemented yet"
-msgstr "Hex view not implemented yet"
+msgstr "התצוגה ההקסדצימלית טרם מומשה"
 
 msgid "Hide unknown"
 msgstr "הסתר לא ידועים"
@@ -865,13 +865,13 @@ msgid "Highlights"
 msgstr "הדגשות"
 
 msgid "Icon"
-msgstr "Icon"
+msgstr "סמל"
 
 msgid "Image"
 msgstr "תמונה"
 
 msgid "Image information"
-msgstr "Image information"
+msgstr "מידע על התמונה"
 
 msgid "Images"
 msgstr "תמונות"
@@ -880,7 +880,7 @@ msgid "Import"
 msgstr "פונקציות מיובאות"
 
 msgid "Import hash"
-msgstr "ייבא חשיש"
+msgstr "גיבוב ייבוא"
 
 msgid "Indirect symbols"
 msgstr "סמלים עקיפים"
@@ -889,7 +889,7 @@ msgid "Info"
 msgstr "מידע"
 
 msgid "Info database update URL"
-msgstr "Info database update URL"
+msgstr "כתובת לעדכון מסד נתוני המידע"
 
 msgid "Information"
 msgstr "מידע"
@@ -910,43 +910,43 @@ msgid "Instruction pointer register"
 msgstr "אוגר מצביע פקודה"
 
 msgid "Interfaces"
-msgstr "Interfaces"
+msgstr "ממשקים"
 
 msgid "Interpreter"
-msgstr "מְתוּרגְמָן"
+msgstr "מפרש"
 
 msgid "Invalid"
 msgstr "לא תקין"
 
 msgid "Invalid CRC"
-msgstr "Invalid CRC"
+msgstr "CRC לא תקין"
 
 msgid "Invalid YARA compiler"
-msgstr "Invalid YARA compiler"
+msgstr "מהדר YARA לא תקין"
 
 msgid "Invalid data"
-msgstr "Invalid data"
+msgstr "נתונים לא תקינים"
 
 msgid "Invalid font"
 msgstr "גופן לא תקין"
 
 msgid "Invalid format data"
-msgstr "Invalid format data"
+msgstr "נתוני פורמט לא תקינים"
 
 msgid "Invalid handle"
-msgstr "הנדל לא תקין"
+msgstr "מזהה משאב לא תקין"
 
 msgid "Invalid offset"
 msgstr "היסט לא תקין"
 
 msgid "Invalid opcode"
-msgstr "קוד לא חוקי"
+msgstr "קוד פעולה לא תקין"
 
 msgid "Invalid parameters provided"
-msgstr "Invalid parameters provided"
+msgstr "סופקו פרמטרים לא תקינים"
 
 msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
-msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "תוכן הגרסה עבור %1 אינו תקין. נדרש date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "חתימה לא תקינה"
@@ -973,10 +973,10 @@ msgid "Last"
 msgstr "אחרון"
 
 msgid "Last error"
-msgstr "Last error"
+msgstr "השגיאה האחרונה"
 
 msgid "Lazy binding"
-msgstr "כריכה עצלנית"
+msgstr "קישור מושהה"
 
 msgid "Length"
 msgstr "אורך"
@@ -1012,7 +1012,7 @@ msgid "Loader"
 msgstr "טוען"
 
 msgid "Local relocation"
-msgstr "רילוקיישן מקומי"
+msgstr "מיקום מחדש מקומי"
 
 msgid "Location"
 msgstr "מיקום"
@@ -1021,7 +1021,7 @@ msgid "Log"
 msgstr "יומן אירועים"
 
 msgid "Logical Screen Descriptor"
-msgstr "Logical Screen Descriptor"
+msgstr "מתאר מסך לוגי"
 
 msgid "MB"
 msgstr "MB"
@@ -1030,7 +1030,7 @@ msgid "Main"
 msgstr "ראשי"
 
 msgid "Main database updated successfully"
-msgstr "Main database updated successfully"
+msgstr "מסד הנתונים הראשי עודכן בהצלחה"
 
 msgid "Main module"
 msgstr "מודול ראשי"
@@ -1042,7 +1042,7 @@ msgid "Malware"
 msgstr "נוזקה"
 
 msgid "Manifest"
-msgstr "פרטי מדיניות"
+msgstr "מניפסט"
 
 msgid "Map"
 msgstr "מפה"
@@ -1072,10 +1072,10 @@ msgid "Memory scan"
 msgstr "סריקת זיכרון"
 
 msgid "Metadata"
-msgstr "מטא נתונים"
+msgstr "מטא־נתונים"
 
 msgid "Metadata table"
-msgstr "טבלת מטא-נתונים"
+msgstr "טבלת מטא־נתונים"
 
 msgid "Method"
 msgstr "שיטה"
@@ -1090,13 +1090,13 @@ msgid "Min length"
 msgstr "אורך מינימלי"
 
 msgid "Missing Resources"
-msgstr "Missing Resources"
+msgstr "משאבים חסרים"
 
 msgid "Mode"
 msgstr "מצב"
 
 msgid "Mode is not available for this file type"
-msgstr "Mode is not available for this file type"
+msgstr "המצב אינו זמין לסוג הקובץ הזה"
 
 msgid "Modules"
 msgstr "מודולים"
@@ -1114,13 +1114,13 @@ msgid "Name"
 msgstr "שם"
 
 msgid "Native"
-msgstr "Native"
+msgstr "מקורי (Native)"
 
 msgid "Network error"
 msgstr "שגיאת רשת"
 
 msgid "Network error while checking for database updates"
-msgstr "Network error while checking for database updates"
+msgstr "שגיאת רשת בעת בדיקת עדכונים למסדי הנתונים"
 
 msgid "New"
 msgstr "חדש"
@@ -1138,13 +1138,13 @@ msgid "No"
 msgstr "לא"
 
 msgid "No YARA rules were loaded"
-msgstr "No YARA rules were loaded"
+msgstr "לא נטענו כללי YARA"
 
 msgid "No image loaded"
-msgstr "No image loaded"
+msgstr "לא נטענה תמונה"
 
 msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
-msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "אין קובץ info.ini מקומי עבור %1. מתבצע אתחול מתוך גרסת GitHub %2."
 
 msgid "No update available"
 msgstr "אין עדכון זמין"
@@ -1156,7 +1156,7 @@ msgid "Nothing found"
 msgstr "שום דבר לא נמצא"
 
 msgid "Null-terminated"
-msgstr "סיום בנאל"
+msgstr "מסתיים בתו אפס"
 
 msgid "Numbers"
 msgstr "מספרים"
@@ -1168,7 +1168,7 @@ msgid "Obfuscator"
 msgstr "מערפל"
 
 msgid "Object"
-msgstr "לְהִתְנַגֵד"
+msgstr "אובייקט"
 
 msgid "Objects"
 msgstr "אובייקטים"
@@ -1195,7 +1195,7 @@ msgid "Open"
 msgstr "פתח"
 
 msgid "Open Directory"
-msgstr "Open Directory"
+msgstr "פתיחת תיקייה"
 
 msgid "Open directory"
 msgstr "פתח תיקייה"
@@ -1213,13 +1213,13 @@ msgid "Output"
 msgstr "פלט"
 
 msgid "Overlay"
-msgstr "שכבה"
+msgstr "נתונים נלווים (Overlay)"
 
 msgid "Overlay scan"
-msgstr "Overlay scan"
+msgstr "סריקת נתונים נלווים (Overlay)"
 
 msgid "PE tool"
-msgstr "PE tool"
+msgstr "כלי PE"
 
 msgid "Package"
 msgstr "חבילה"
@@ -1228,19 +1228,19 @@ msgid "Packer"
 msgstr "דוחס"
 
 msgid "Part"
-msgstr "Part"
+msgstr "חלק"
 
 msgid "Patch"
 msgstr "טלאי"
 
 msgid "Path traversal detected"
-msgstr "Path traversal detected"
+msgstr "זוהתה חריגה מנתיב התיקייה (Path traversal)"
 
 msgid "Path"
-msgstr "Path"
+msgstr "נתיב"
 
 msgid "Pause"
-msgstr "הַפסָקָה"
+msgstr "השהיה"
 
 msgid "Paused"
 msgstr "מושהה"
@@ -1255,13 +1255,13 @@ msgid "Plain Text"
 msgstr "טקסט פשוט"
 
 msgid "Plain Text Extension"
-msgstr "Plain Text Extension"
+msgstr "הרחבת טקסט פשוט"
 
 msgid "Platform"
 msgstr "פלטפורמה"
 
 msgid "Player"
-msgstr "שחקן"
+msgstr "נגן"
 
 msgid "Please restart the application"
 msgstr "אנא הפעל את התוכנית מחדש"
@@ -1273,7 +1273,7 @@ msgid "Please use valid API key"
 msgstr "אנא השתמש במפתח API תקין"
 
 msgid "Pointer"
-msgstr "מַצבִּיעַ"
+msgstr "מצביע"
 
 msgid "Position"
 msgstr "מיקום"
@@ -1282,7 +1282,7 @@ msgid "Previous visited"
 msgstr "ביקור קודם"
 
 msgid "Primary Volume Descriptor"
-msgstr "Primary Volume Descriptor"
+msgstr "מתאר כרך ראשי"
 
 msgid "Print"
 msgstr "הדפס"
@@ -1303,7 +1303,7 @@ msgid "Programs"
 msgstr "תוכניות"
 
 msgid "Protection"
-msgstr "הֲגָנָה"
+msgstr "הגנה"
 
 msgid "Protector"
 msgstr "תוכנת הגנה"
@@ -1315,22 +1315,22 @@ msgid "Prototype"
 msgstr "אב טיפוס"
 
 msgid "Publisher"
-msgstr "מוֹצִיא לָאוֹר"
+msgstr "מפרסם"
 
 msgid "RIFF Header"
-msgstr "RIFF Header"
+msgstr "כותרת RIFF"
 
 msgid "ROM"
 msgstr "ROM"
 
 msgid "Raw"
-msgstr "Raw"
+msgstr "גולמי"
 
 msgid "Raw data"
 msgstr "מידע גולמי"
 
 msgid "Read buffer size"
-msgstr "Read buffer size"
+msgstr "גודל מאגר הקריאה"
 
 msgid "Read error"
 msgstr "שגיאת קריאה"
@@ -1339,13 +1339,13 @@ msgid "Readonly"
 msgstr "לקריאה בלבד"
 
 msgid "Rebase"
-msgstr "Rebase"
+msgstr "שינוי כתובת הבסיס"
 
 msgid "Recent files"
 msgstr "קבצים אחרונים"
 
 msgid "Record"
-msgstr "Record"
+msgstr "רשומה"
 
 msgid "Recursive"
 msgstr "רקורסיבי"
@@ -1375,16 +1375,16 @@ msgid "Relative address"
 msgstr "כתובת יחסית"
 
 msgid "Relative virtual address"
-msgstr "כתובת יחסית"
+msgstr "כתובת וירטואלית יחסית"
 
 msgid "Reload"
 msgstr "טען מחדש"
 
 msgid "Relocs"
-msgstr "עוברת דירה מחדש"
+msgstr "מיקומים מחדש"
 
 msgid "Remaining:"
-msgstr "Remaining:"
+msgstr "נותר:"
 
 msgid "Remove"
 msgstr "הסר"
@@ -1393,34 +1393,34 @@ msgid "Rescan"
 msgstr "סרוק מחדש"
 
 msgid "Reserved"
-msgstr "Reserved"
+msgstr "שמור"
 
 msgid "Resize"
 msgstr "שנה גודל"
 
 msgid "Resource"
-msgstr "מַשׁאָב"
+msgstr "משאב"
 
 msgid "Resource scan"
-msgstr "Resource scan"
+msgstr "סריקת משאבים"
 
 msgid "Resources"
-msgstr "משאבי קובץ"
+msgstr "משאבים"
 
 msgid "Restart"
-msgstr "אתחול"
+msgstr "הפעלה מחדש"
 
 msgid "Result"
 msgstr "תוצאה"
 
 msgid "Rule name"
-msgstr "שם חוק"
+msgstr "שם כלל"
 
 msgid "Rules"
-msgstr "חוקים"
+msgstr "כללים"
 
 msgid "Run"
-msgstr "לָרוּץ"
+msgstr "הפעלה"
 
 msgid "Run path"
 msgstr "נתיב ריצה"
@@ -1429,22 +1429,22 @@ msgid "Running"
 msgstr "רץ"
 
 msgid "Runtime driver"
-msgstr "נהג זמן ריצה"
+msgstr "מנהל התקן לזמן ריצה"
 
 msgid "SFX"
 msgstr "SFX"
 
 msgid "SFX data"
-msgstr "SFX data"
+msgstr "נתוני חילוץ עצמי (SFX)"
 
 msgid "SZDD Header"
-msgstr "SZDD Header"
+msgstr "כותרת SZDD"
 
 msgid "Save"
 msgstr "שמור"
 
 msgid "Save Image"
-msgstr "Save Image"
+msgstr "שמירת תמונה"
 
 msgid "Save as"
 msgstr "שמור בשם"
@@ -1456,7 +1456,7 @@ msgid "Save diagram"
 msgstr "שמור תרשים"
 
 msgid "Save dump"
-msgstr "שמור מצב"
+msgstr "שמירת הטלת נתונים"
 
 msgid "Save file"
 msgstr "שמור קובץ"
@@ -1483,10 +1483,10 @@ msgid "Schema"
 msgstr "סכימה"
 
 msgid "Script"
-msgstr "תסריט"
+msgstr "סקריפט"
 
 msgid "Scripts"
-msgstr "תסריטים"
+msgstr "סקריפטים"
 
 msgid "Search"
 msgstr "חפש"
@@ -1504,7 +1504,7 @@ msgid "Search string"
 msgstr "חפש מחרוזת"
 
 msgid "Search strings"
-msgstr "חפש מחרוזת"
+msgstr "חיפוש מחרוזות"
 
 msgid "Search value"
 msgstr "חפש ערך"
@@ -1525,7 +1525,7 @@ msgid "Segment"
 msgstr "חלק"
 
 msgid "Segment %1"
-msgstr "Segment %1"
+msgstr "מקטע %1"
 
 msgid "Segment registers"
 msgstr "אוגרי סגמנט"
@@ -1537,7 +1537,7 @@ msgid "Select"
 msgstr "בחר"
 
 msgid "Select Value"
-msgstr "Select Value"
+msgstr "בחירת ערך"
 
 msgid "Selected"
 msgstr "נבחר"
@@ -1549,7 +1549,7 @@ msgid "Serial number"
 msgstr "מספר סידורי"
 
 msgid "Set system environment variable"
-msgstr "Set system environment variable"
+msgstr "הגדרת משתנה סביבה של המערכת"
 
 msgid "Shortcut"
 msgstr "קיצור"
@@ -1558,13 +1558,13 @@ msgid "Shortcuts"
 msgstr "קיצורי דרך"
 
 msgid "Show"
-msgstr "הופעה"
+msgstr "הצגה"
 
 msgid "Show Offsets"
-msgstr "Show Offsets"
+msgstr "הצגת היסטים"
 
 msgid "Show Presentation"
-msgstr "Show Presentation"
+msgstr "הצגת מצגת"
 
 msgid "Show all"
 msgstr "הצג הכל"
@@ -1591,7 +1591,7 @@ msgid "Show type"
 msgstr "הצג סוג"
 
 msgid "Show valid"
-msgstr "ההצגה תקפה"
+msgstr "הצגת תקינים"
 
 msgid "Show version"
 msgstr "הצג גרסה"
@@ -1621,7 +1621,7 @@ msgid "Size of image"
 msgstr "גודל התמונה"
 
 msgid "Social Media"
-msgstr "Social Media"
+msgstr "רשתות חברתיות"
 
 msgid "Sort"
 msgstr "מיין"
@@ -1642,7 +1642,7 @@ msgid "Spaces"
 msgstr "רווחים"
 
 msgid "Stack"
-msgstr "לַעֲרוֹם"
+msgstr "מחסנית"
 
 msgid "Stack registers"
 msgstr "אוגרי מחסנית"
@@ -1657,49 +1657,49 @@ msgid "Stay on top"
 msgstr "השאר בקידמה"
 
 msgid "Step into"
-msgstr "להכנס ל"
+msgstr "צעד לתוך"
 
 msgid "Step over"
-msgstr "לדרוך מעל"
+msgstr "צעד מעל"
 
 msgid "Stop"
 msgstr "עצור"
 
 msgid "Stream"
-msgstr "Stream"
+msgstr "זרם"
 
 msgid "Stream Footer"
-msgstr "Stream Footer"
+msgstr "סיומת זרם"
 
 msgid "Stream Header"
-msgstr "Stream Header"
+msgstr "כותרת זרם"
 
 msgid "Stream offset"
-msgstr "Stream offset"
+msgstr "היסט זרם"
 
 msgid "Stream size"
-msgstr "Stream size"
+msgstr "גודל זרם"
 
 msgid "Streams"
-msgstr "Streams"
+msgstr "זרמים"
 
 msgid "String"
 msgstr "מחרוזת"
 
 msgid "String table"
-msgstr "שולחן מחרוזת"
+msgstr "טבלת מחרוזות"
 
 msgid "Strings"
 msgstr "מחרוזות"
 
 msgid "Strings view not implemented yet"
-msgstr "Strings view not implemented yet"
+msgstr "תצוגת המחרוזות טרם מומשה"
 
 msgid "Struct"
 msgstr "מבנה"
 
 msgid "Struct and unions"
-msgstr "מבנה ואיגודים"
+msgstr "מבנים ואיחודים"
 
 msgid "Structs"
 msgstr "מבנים"
@@ -1717,7 +1717,7 @@ msgid "Subject"
 msgstr "נושא"
 
 msgid "Symbol"
-msgstr "סֵמֶל"
+msgstr "סמל"
 
 msgid "Symbol table"
 msgstr "טבלת סמלים"
@@ -1732,7 +1732,7 @@ msgid "Syntax"
 msgstr "תחביר"
 
 msgid "TABLE"
-msgstr "TABLE"
+msgstr "טבלה"
 
 msgid "TB"
 msgstr "TB"
@@ -1741,7 +1741,7 @@ msgid "Table"
 msgstr "טבלה"
 
 msgid "Table Directory"
-msgstr "Table Directory"
+msgstr "מדריך טבלאות"
 
 msgid "Table of contents"
 msgstr "תוכן העניינים"
@@ -1750,19 +1750,19 @@ msgid "Table views"
 msgstr "תצוגות טבלה"
 
 msgid "Tag"
-msgstr "Tag"
+msgstr "תגית"
 
 msgid "Tags"
 msgstr "תגיות"
 
 msgid "Text"
-msgstr "טֶקסט"
+msgstr "טקסט"
 
 msgid "Text color"
-msgstr "Text color"
+msgstr "צבע טקסט"
 
 msgid "Text content"
-msgstr "Text content"
+msgstr "תוכן טקסט"
 
 msgid "Text documents"
 msgstr "מסמכי טקסט"
@@ -1783,19 +1783,19 @@ msgid "The file is signed and the signature was verified"
 msgstr "הקובץ חתום והחתימה אומתה"
 
 msgid "The signature error"
-msgstr "טעות החתימה"
+msgstr "שגיאת החתימה"
 
 msgid "The signature is present, but not trusted"
 msgstr "החתימה קיימת אך אינה מהימנה"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr "החתימה קיימת, אך אסורה במיוחד"
+msgstr "החתימה קיימת, אך נאסרה במפורש"
 
 msgid "The value copied to clipboard"
 msgstr "הערך הועתק ללוח"
 
 msgid "Threads"
-msgstr "שרשורים"
+msgstr "תהליכונים"
 
 msgid "TiB"
 msgstr "TiB"
@@ -1804,10 +1804,10 @@ msgid "Time"
 msgstr "זמן"
 
 msgid "Time date stamp"
-msgstr "חותמת תאריך זמן"
+msgstr "חותמת תאריך ושעה"
 
 msgid "Toggle"
-msgstr "לְמַתֵג"
+msgstr "החלפת מצב"
 
 msgid "Tool"
 msgstr "כלי"
@@ -1828,7 +1828,7 @@ msgid "Trace over"
 msgstr "מעקב מעל"
 
 msgid "Trailer"
-msgstr "Trailer"
+msgstr "סיומת"
 
 msgid "Tree"
 msgstr "עץ"
@@ -1846,13 +1846,13 @@ msgid "Type"
 msgstr "סוג"
 
 msgid "U.Size"
-msgstr "U.Size"
+msgstr "גודל לאחר פריסה"
 
 msgid "UNKNOWN"
-msgstr "UNKNOWN"
+msgstr "לא ידוע"
 
 msgid "Unexpected end of data"
-msgstr "Unexpected end of data"
+msgstr "סיום בלתי צפוי של הנתונים"
 
 msgid "Unicode"
 msgstr "יוניקוד"
@@ -1864,16 +1864,16 @@ msgid "Unknown"
 msgstr "לא ידוע"
 
 msgid "Unknown compression method"
-msgstr "Unknown compression method"
+msgstr "שיטת דחיסה לא ידועה"
 
 msgid "Unpack"
-msgstr "פרוק"
+msgstr "חילוץ"
 
 msgid "Unsigned"
 msgstr "ללא סימן"
 
 msgid "Update"
-msgstr "Update"
+msgstr "עדכון"
 
 msgid "Update information"
 msgstr "מידע על עדכון"
@@ -1888,10 +1888,10 @@ msgid "Uppercase"
 msgstr "אותיות רישיות"
 
 msgid "Use cache"
-msgstr "Use cache"
+msgstr "שימוש במטמון"
 
 msgid "V.Size"
-msgstr "V.Size"
+msgstr "גודל וירטואלי"
 
 msgid "Value"
 msgstr "ערך"
@@ -1900,7 +1900,7 @@ msgid "Values"
 msgstr "ערכים"
 
 msgid "Variable"
-msgstr "מִשְׁתַנֶה"
+msgstr "משתנה"
 
 msgid "Verbose"
 msgstr "מפורט"
@@ -1912,10 +1912,10 @@ msgid "Video"
 msgstr "וידאו"
 
 msgid "View"
-msgstr "נוף"
+msgstr "תצוגה"
 
 msgid "Viewer"
-msgstr "צוֹפֶה"
+msgstr "מציג"
 
 msgid "Virtual address"
 msgstr "כתובת וירטואלית"
@@ -1936,7 +1936,7 @@ msgid "Warning"
 msgstr "אזהרה"
 
 msgid "Weak binding"
-msgstr "כריכה חלשה"
+msgstr "קישור חלש"
 
 msgid "Website"
 msgstr "אתר אינטרנט"
@@ -1945,19 +1945,19 @@ msgid "Width"
 msgstr "רוחב"
 
 msgid "Wildcard"
-msgstr "Wildcard"
+msgstr "תו כללי"
 
 msgid "Would you like to download them now?"
-msgstr "Would you like to download them now?"
+msgstr "האם להוריד אותם כעת?"
 
 msgid "Write error"
 msgstr "שגיאת כתיבה"
 
 msgid "YARA rules path not found"
-msgstr "YARA rules path not found"
+msgstr "הנתיב לכללי YARA לא נמצא"
 
 msgid "YARA scan failed"
-msgstr "YARA scan failed"
+msgstr "סריקת YARA נכשלה"
 
 msgid "Zeros"
 msgstr "אפסים"
@@ -1966,10 +1966,10 @@ msgid "Zoom"
 msgstr "זום"
 
 msgid "Zoom In"
-msgstr "Zoom In"
+msgstr "הגדלה"
 
 msgid "Zoom Out"
-msgstr "Zoom Out"
+msgstr "הקטנה"
 
 msgid "data"
 msgstr "מידע"
@@ -1984,7 +1984,7 @@ msgid "kB"
 msgstr "kB"
 
 msgid "msec"
-msgstr "msec"
+msgstr "מילישניות"
 
 msgid "not packed"
 msgstr "לא דחוס"
@@ -1995,3 +1995,5 @@ msgstr "דחוס"
 msgid "true"
 msgstr "אמת"
 
+msgid "Check updates"
+msgstr "בדיקת עדכונים"
